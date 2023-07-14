@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SuitmediaTest</string>
+    <string name="name">Name</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="check">CHECK</string>
+    <string name="next">NEXT</string>
+    <string name="welcome">Welcome</string>
+    <string name="username">Rohim Kurniawan</string>
+    <string name="tvSelected">Selected User Name</string>
+    <string name="chose">Chose a User</string>
+    <string name="first_name">Rohim</string>
+    <string name="last_name">Kurniawan</string>
+    <string name="email">rohimkurniawan456@gmail.com</string>
+</resources>

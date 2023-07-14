@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SuitmediaTest" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/cl_button</item>
+    </style>
+
+    <style name="Theme.SuitmediaTest" parent="Base.Theme.SuitmediaTest" />
+
+    <style name="Base.Theme.FirstActivity" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/cl_button</item>
+    </style>
+    <style name="Theme.FirstActivity" parent="Base.Theme.FirstActivity"/>
+</resources>
